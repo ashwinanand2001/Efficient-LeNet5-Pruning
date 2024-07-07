@@ -1,0 +1,7 @@
+Project Directory 
+
+- Project Report
+- 3 sets of Data training collected from terminal
+- Excel sheet containing results and graphs for all test scenarios
+- main.py file
+- sparse.py file 
